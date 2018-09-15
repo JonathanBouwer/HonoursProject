@@ -12,3 +12,6 @@ All scripts can be easily edited by modifying the constant variables near the to
 - gan.py: This is the script which trains and runs GANs, modify the final 2 lines to switch between both training and running and just running.
 - nueral_net.py: This is the script which trains classification networks for comparison
 - analyze.py: This is the script which calculates avaerages and ranges based on the generated data
+
+## Graphs
+Graphs of the distributinos of generated data can be accessed [here](/Graphs/Graphs.md)
