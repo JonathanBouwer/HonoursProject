@@ -14,4 +14,4 @@ All scripts can be easily edited by modifying the constant variables near the to
 - analyze.py: This is the script which calculates avaerages and ranges based on the generated data
 
 ## Graphs
-Graphs of the distributinos of generated data can be accessed [here](/Graphs/Graphs.md)
+Graphs of the distributions of generated data can be accessed [here](/Graphs/Graphs.md)
